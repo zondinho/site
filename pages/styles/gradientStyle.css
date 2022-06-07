@@ -1,0 +1,52 @@
+	body  {
+		background-color: #000000;
+	}
+	#div1  {
+		height: 50px;
+    	background: linear-gradient(to bottom, #FF69B6 70%, #FF0018 100%)
+	}
+	#div2  {
+		margin-top: 5px;
+		height: 50px;
+    	background: linear-gradient(to bottom, #FF0018 70%, #FFA52C 100%)
+	}
+	#div3  {
+		margin-top: 5px;
+		height: 50px;
+    	background: linear-gradient(to bottom, #FFA52C 70%, #FFFF41 100%)
+	}
+	#div4  {
+		margin-top: 5px;
+		height: 50px;
+    	background: linear-gradient(to bottom, #FFFF41 70%, #FFFFFF 100%)
+	}
+	#div5  {
+		margin-top: 5px;
+		height: 50px;
+    	background: linear-gradient(to bottom, #FFFFFF 70%, #008018 100%)
+	}
+	#div6  {
+		margin-top: 5px;
+		height: 50px;
+    	background: linear-gradient(to bottom, #008018 70%, #00C0C0 100%)
+	}
+	#div7  {
+		margin-top: 5px;
+		height: 50px;
+    	background: linear-gradient(to bottom, #00C0C0 70%, #0000F9 100%)
+	}
+	#div8  {
+		margin-top: 5px;
+		height: 50px;
+    	background: linear-gradient(to bottom, #0000F9 70%, #86007D 100%)
+	}
+	#div9  {
+		margin-top: 5px;
+		height: 50px;
+    	background: linear-gradient(to bottom, #86007D 70%, #400098 100%)
+	}
+	#div10  {
+		margin-top: 5px;
+		height: 50px;
+    	background: linear-gradient(to bottom, #400098 70%, #400098 100%)
+	}
